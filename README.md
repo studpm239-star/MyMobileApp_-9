@@ -22,4 +22,4 @@ iOS приложение, созданное для практической р�
 
 ## Как запустить
 ```bash
-git clone https://github.com/studpm239-star/MyMobileApp_Студент9.git
+git clone https://github.com/studpm239-star/MyMobileApp_-9.git
